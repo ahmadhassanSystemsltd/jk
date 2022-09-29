@@ -1,1 +1,1 @@
-xidel -se '//remote/text()' config.xml
+xidel -se 'print' config.xml
